@@ -1,0 +1,14 @@
+body {
+    background-color: limegreen;
+    text-align: center;
+}
+
+main {
+    border: 5px white dotted;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-decoration: underline;
+}
